@@ -1,6 +1,6 @@
 # Week 1
 ## DevOps Concept
-DevOps merupakan kombinasi dari serangkaian praktik untuk terus meningkatkan kolaborasi antara pengembang, operasi TI, dan pemangku kepentingan bisnis, menggunakan alat otomatisasi untuk mempercepat penerapan perangkat lunak, meningkatkan penyampaian layanan, dan memastikan kesalahan kode minimal melalui proses yang berulang.
+DevOps merupakan kombinasi dari serangkaian praktik untuk terus meningkatkan kolaborasi antara pengembang, operasi TI, dan pemangku kepentingan bisnis, menggunakan alat otomatisasi untuk mempercepat penerapan perangkat lunak, meningkatkan penyampaian layanan, dan memastikan meminimalisir kesalahan kode melalui proses yang berulang.
 ### DevOps Principles
 -	Automation
 Mengotomatiskan tugas harian yang berulang dapat menghemat waktu yang berharga. Siklus hidup DevOps mencakup otomatisasi dan alat penerapan aplikasi untuk bermigrasi dari satu teknologi atau proses ke teknologi atau proses lainnya secepat, akurat, dan seaman mungkin.
